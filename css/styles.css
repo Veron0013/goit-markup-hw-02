@@ -1,0 +1,141 @@
+/* main */
+body {
+	font-family: "Roboto", sans-serif;
+	max-width: 1440px;
+	background: #fff;
+	margin: 0 auto;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	max-height: 72px;
+	padding: auto;
+	align-items: center;
+	margin: 24px 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+header a {
+	text-decoration: none;
+}
+
+.logo-menu {
+	display: flex;
+	margin-left: 156px;
+}
+
+.logo-font {
+	font-family: "Raleway", sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 117%;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #4d5ae5;
+}
+
+.nav-header ul {
+	display: flex;
+	list-style: none;
+	gap: 24px;
+	margin: 0 0 0 76px;
+}
+
+.nav-header a {
+	text-decoration: none;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 0.02em;
+	color: #2e2f42
+}
+
+.contact-info {
+	display: flex;
+	gap: 40px;
+	margin-right: 156px;
+	color: #434455;
+}
+
+.contact-info a {
+	text-decoration: none;
+	color: #434455;
+}
+
+.contact-info span {
+
+	color: #434455;
+}
+
+/* main banner*/
+
+.banner {
+	width: 1440px;
+	height: 600px;
+	background: #2e2f42;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 107%;
+	letter-spacing: 0.02em;
+	text-align: center;
+	color: #fff;
+	max-width: 496px;
+	margin: 0;
+}
+
+.banner button {
+	border-radius: 4px;
+	/*padding: 16px 32px;*/
+	width: 169px;
+	height: 56px;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+	background: #4d5ae5;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 150%;
+	letter-spacing: 0.04em;
+	color: #fff;
+	margin-top: 48px;
+}
+
+/* main keywords */
+
+/* main our-team */
+.our-team {
+	width: 1440px;
+	height: 732px;
+	background: #f4f4fd;
+}
+
+/* footer */
+footer {
+	max-height: 312px;
+	width: 1440px;
+	background: #2e2f42;
+	padding: 100px 0px;
+	color: #f4f4fd;
+}
+
+.footer-container {
+	padding-left: 156px;
+	width: 264px;
+	max-height: 112px;
+}
+
+.footer-container a {
+	text-decoration: none;
+}
+
+.footer-container p {
+	margin: 16px 0 0 0;
+}
