@@ -102,19 +102,14 @@ a {
 }
 
 .header-address-list-item a {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 150%;
 	letter-spacing: 0.02em;
 	color: #434455;
-	font-style: normal;
 }
 
 .header-address-list-item a:hover {
-	font-weight: 400;
 	font-size: 16px;
-
-	/* line-height: 24px; */
 	line-height: 150%;
 	letter-spacing: 0.02em;
 	color: #404bbf;
@@ -151,7 +146,6 @@ a {
 	height: 56px;
 	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 	background: #4d5ae5;
-
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 150%;
@@ -190,7 +184,6 @@ a {
 }
 
 .keypoints-list-items-text {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 150%;
 	letter-spacing: 0.02em;
@@ -246,7 +239,6 @@ a {
 }
 
 .about-item-text {
-	font-weight: 400;
 	font-size: 16px;
 	line-height: 150%;
 	letter-spacing: 0.02em;
@@ -305,7 +297,7 @@ a {
 }
 
 .portfolio-list-text {
-	font-weight: 400;
+
 	font-size: 16px;
 	line-height: 150%;
 	letter-spacing: 0.02em;
@@ -343,10 +335,7 @@ a {
 
 .footer-text {
 	width: 264px;
-	font-weight: 400;
 	font-size: 16px;
-
-	/* line-height: 24px; */
 	line-height: 150%;
 	letter-spacing: 0.02em;
 	color: #f4f4fd;
