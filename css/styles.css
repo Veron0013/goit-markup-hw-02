@@ -139,12 +139,6 @@ a {
 	text-transform: capitalize;
 }
 
-.about-list {
-	display: flex;
-	flex-direction: row;
-	gap: 24px;
-}
-
 .about-list-item {
 	background: #fff;
 }
@@ -180,9 +174,6 @@ a {
 
 .portfolio-list-item {
 	background: #fff;
-	border-bottom: 1px solid #e7e9fc;
-	border-left: 1px solid #e7e9fc;
-	border-right: 1px solid #e7e9fc;
 }
 
 .portfolio-list-title {
